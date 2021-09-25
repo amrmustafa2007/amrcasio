@@ -1,4 +1,4 @@
-# 
+
 <SCRIPT>
 function compute(obj) 
 {obj.expr.value = eval(obj.expr.value)}
@@ -72,6 +72,7 @@ name=expr action="compute(this.form)"></TD></TR>
 							 </P></TD></TR></TABLE></DIV></FORM>
 							 <P align="center">
 <FONT face="Courier , New tahoma , erdana, arial, helveticav" size="2"
-color="#0000FF"><B><A target="_blank" href="http://www.amrsalama.com" style="TEXT-DECORATION: NONE">BY amr salama</A></B></FONT></P>
+color="#0000FF"><B><A target="_blank" href="http://www.amrsalama.com" style="TEXT-DECORATION: NONE">BY amr salama</A></B></FONT>
+>
 
 
